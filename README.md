@@ -1,6 +1,6 @@
 # Cycle-Share-System--Complex-Networks-Project
 
-# Bicycle Trip Data from Seattle's Cycle Share System
+### Bicycle Trip Data from Seattle's Cycle Share System
 
 The Pronto Cycle Share system consists of 500 bikes and 54 stations located in Seattle. Pronto provides open data on individual trips and stations.
 
